@@ -1,0 +1,1 @@
+This repository contains a TypeScript code example demonstrating an uncommon code error involving unhandled operations within a calculator function. The original code throws an error if an invalid operation is provided. The solution demonstrates a more robust approach that handles invalid operations gracefully.
